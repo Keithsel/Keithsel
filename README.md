@@ -31,8 +31,8 @@ Pikawiki-UI 🐱‍👤🐉
 The frontend component of Pikawiki, a group project to create a comprehensive Pokemon database. Built using Vue.js. 🕹️
 Skills 🛠️
 
-    Python programming 🐍
-    Frontend development with JavaScript and Vue.js 💻
+- Python programming
+- Frontend development with JavaScript and Vue.js
 
 Contact 📬
 
