@@ -21,16 +21,16 @@ I also enjoy frontend development as a hobby, so you'll find some web UI project
 
 #### Featured Projects 🔍
 
-Movie Search Engine 🎬 <br/>
+##### Movie Search Engine 🎬 <br/>
 A web app written in Python that allows users to search for movies from a CSV dataset. Utilizes fuzzy search to provide accurate results. 🔍
 
-Pyzzle 🧩 <br/>
+##### Pyzzle 🧩 <br/>
 A puzzle-solving application written in Python as a practice for data structures. Includes computer vision capabilities to recognize and solve Sudoku puzzles. 🤖
 
-Pytoshop ✨ <br/>
+##### Pytoshop ✨ <br/>
 An image augmentation web app using Python, allowing users to apply various transformations and filters to their images. 📷
 
-Pikawiki-UI 🐱‍👤 <br/>
+##### Pikawiki-UI 🐱‍👤 <br/>
 The frontend component of Pikawiki, a group project to create a comprehensive Pokemon database. Built using Vue.js. 🕹️
 
 #### Skills 🛠️
